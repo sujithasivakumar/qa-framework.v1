@@ -11,6 +11,7 @@ public class SeleniumFunctions {
 		try {
 		Select select = new Select(element);
 		select.selectByVisibleText(visibletext);
+
 		}
 		catch(Exception e)
 		{

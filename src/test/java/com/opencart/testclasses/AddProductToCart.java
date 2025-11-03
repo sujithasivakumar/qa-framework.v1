@@ -26,6 +26,7 @@ public class AddProductToCart extends Baseclass {
 		
 		testLogger.info("gng to start tc1");
 		new ExecuteTests().execute_Test("Login");
+		testLogger.info("Test completed");
 		    
 	}
 
