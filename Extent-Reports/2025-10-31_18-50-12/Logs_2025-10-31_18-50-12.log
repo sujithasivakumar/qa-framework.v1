@@ -1,0 +1,13 @@
+2025-10-31 18:50:12 INFO  Baseclass:97 - Created Logger
+2025-10-31 18:50:13 INFO  Baseclass:25 - gng to start tc1
+2025-10-31 18:50:15 INFO  Baseclass:47 - gng to click login
+2025-10-31 18:50:32 INFO  Baseclass:70 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='content']/h2[1]"}
+  (Session info: chrome=141.0.7390.123)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f4c021a55f6fd17d90996dc5d01cea0, findElement {using=xpath, value=//*[@id='content']/h2[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\SUJITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:8518}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:8518/devtool..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f4c021a55f6fd17d90996dc5d01cea0
+2025-10-31 18:50:37 INFO  Baseclass:18 - Hi!

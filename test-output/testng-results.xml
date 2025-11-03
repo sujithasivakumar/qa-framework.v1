@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-02T15:34:59 IST" name="Suite" finished-at="2025-11-02T15:35:10 IST" duration-ms="10534">
+    <groups>
+    </groups>
+    <test started-at="2025-11-02T15:34:59 IST" name="Test" finished-at="2025-11-02T15:35:10 IST" duration-ms="10534">
+      <class name="com.opencart.testclasses.AddProductToCart">
+        <test-method is-config="true" signature="initialize(java.lang.String,java.lang.String)[pri:0, instance:com.opencart.testclasses.AddProductToCart@291ae]" started-at="2025-11-02T15:34:58 IST" name="initialize" finished-at="2025-11-02T15:34:59 IST" duration-ms="1043" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="CreateTestInReport()[pri:0, instance:com.opencart.testclasses.AddProductToCart@291ae]" started-at="2025-11-02T15:34:59 IST" name="CreateTestInReport" finished-at="2025-11-02T15:34:59 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateTestInReport -->
+        <test-method signature="add_ProductToCart()[pri:0, instance:com.opencart.testclasses.AddProductToCart@291ae]" started-at="2025-11-02T15:34:59 IST" name="add_ProductToCart" finished-at="2025-11-02T15:35:10 IST" duration-ms="10478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_ProductToCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.opencart.testclasses.AddProductToCart@291ae]" started-at="2025-11-02T15:35:10 IST" name="teardown" finished-at="2025-11-02T15:35:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.opencart.testclasses.AddProductToCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

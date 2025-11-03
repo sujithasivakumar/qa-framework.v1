@@ -1,0 +1,11 @@
+2025-11-03 11:29:09 INFO  Baseclass:174 - Created Logger
+2025-11-03 11:29:09 INFO  Baseclass:140 - Initiating extent-Report
+2025-11-03 11:29:11 INFO  Baseclass:156 -  Extent-Report initiated
+2025-11-03 11:29:11 INFO  Baseclass:27 - gng to start tc1
+2025-11-03 11:29:11 INFO  Baseclass:78 - initialize_browser
+2025-11-03 11:29:11 INFO  Baseclass:83 - local
+2025-11-03 11:29:11 INFO  Baseclass:84 - chrome
+2025-11-03 11:29:11 INFO  Baseclass:112 - hi
+2025-11-03 11:29:41 INFO  Baseclass:47 - gng to click login
+2025-11-03 11:29:50 INFO  Baseclass:196 - taking ss
+2025-11-03 11:29:51 INFO  Baseclass:65 - Login success

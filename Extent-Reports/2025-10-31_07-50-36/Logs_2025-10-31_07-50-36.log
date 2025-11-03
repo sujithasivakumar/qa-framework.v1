@@ -1,0 +1,13 @@
+2025-10-31 07:50:37 INFO  Baseclass:71 - HELLOOOOO from Log4j2
+2025-10-31 07:50:37 INFO  Baseclass:18 - gng to start tc1
+2025-10-31 07:50:48 INFO  Baseclass:34 - gng to click login
+2025-10-31 07:50:48 INFO  Baseclass:44 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=141.0.7390.123)
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [afbe0c10a0df6c29ab152cbdd1aebe42, clickElement {id=f.763876E16264AE822ED1F2E09DA9BDC5.d.B3CC0D07D35897E7930F589434A5CA9D.e.40}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\SUJITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:3505}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:3505/devtool..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (afbe0c10a0df6c29ab152cbdd1aebe42)] -> xpath: (//a[text()='Login'])[1]]
+Session ID: afbe0c10a0df6c29ab152cbdd1aebe42
+2025-10-31 07:50:48 INFO  Baseclass:18 - Hi!

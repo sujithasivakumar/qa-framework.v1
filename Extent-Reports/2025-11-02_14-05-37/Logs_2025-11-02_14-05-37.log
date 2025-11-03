@@ -1,0 +1,18 @@
+2025-11-02 14:05:37 INFO  Baseclass:165 - Created Logger
+2025-11-02 14:05:37 INFO  Baseclass:131 - Initiating extent-Report
+2025-11-02 14:05:38 INFO  Baseclass:147 -  Extent-Report initiated
+2025-11-02 14:05:38 INFO  Baseclass:27 - gng to start tc1
+2025-11-02 14:05:38 INFO  Baseclass:77 - initialize_browser
+2025-11-02 14:05:38 INFO  Baseclass:82 - "local"
+2025-11-02 14:05:38 INFO  Baseclass:103 - hi
+2025-11-02 14:05:41 INFO  Baseclass:46 - gng to click login
+2025-11-02 14:05:43 INFO  Baseclass:29 - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (860, 571)
+  (Session info: chrome=142.0.7444.59)
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58e88d71f4098200efb9fc93e3f22356, clickElement {id=f.A4BFFFA43D9205F6CA30209C45134B50.d.3DA451E26D4F79F1BD38ADA7ED822C3E.e.71}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.59, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\SUJITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:4364}, goog:processID: 9960, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:4364/devtool..., se:cdpVersion: 142.0.7444.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (58e88d71f4098200efb9fc93e3f22356)] -> xpath: //*[@class='btn btn-primary' and text()='Login']]
+Session ID: 58e88d71f4098200efb9fc93e3f22356
+2025-11-02 14:05:59 INFO  Baseclass:187 - taking ss

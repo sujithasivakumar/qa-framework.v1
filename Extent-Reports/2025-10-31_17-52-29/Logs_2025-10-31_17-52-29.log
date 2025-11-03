@@ -1,0 +1,10 @@
+2025-10-31 17:52:29 INFO  Baseclass:108 - HELLOOOOO from Log4j2
+2025-10-31 17:52:29 INFO  Baseclass:67 - Test1
+2025-10-31 17:52:29 INFO  Baseclass:69 - Test2
+2025-10-31 17:52:29 INFO  Baseclass:71 - Test3
+2025-10-31 17:52:30 INFO  Baseclass:73 - Test4
+2025-10-31 17:52:30 INFO  Baseclass:77 - Test6
+2025-10-31 17:52:30 INFO  Baseclass:88 - Test7
+2025-10-31 17:52:30 INFO  Baseclass:25 - gng to start tc1
+2025-10-31 17:52:33 INFO  Baseclass:47 - gng to click login
+2025-10-31 17:52:34 INFO  Baseclass:132 - taking ss

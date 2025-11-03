@@ -1,0 +1,24 @@
+2025-11-02 12:27:02 INFO  Baseclass:166 - Created Logger
+2025-11-02 12:27:02 INFO  Baseclass:132 - Initiating extent-Report
+2025-11-02 12:27:02 INFO  Baseclass:148 -  Extent-Report initiated
+2025-11-02 12:27:02 INFO  Baseclass:27 - gng to start tc1
+2025-11-02 12:27:02 INFO  Baseclass:78 - initialize_browser
+2025-11-02 12:27:02 INFO  Baseclass:83 - "local"
+2025-11-02 12:27:02 INFO  Baseclass:104 - hi
+2025-11-02 12:27:07 INFO  Baseclass:46 - gng to click login
+2025-11-02 12:27:18 INFO  Baseclass:29 - org.openqa.selenium.NoSuchSessionException: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=142.0.7444.59)
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33e189e223b0cc95f411242a16a10f35, findElement {value=//*[@title='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.59, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\SUJITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:5972}, goog:processID: 14292, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:5972/devtool..., se:cdpVersion: 142.0.7444.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33e189e223b0cc95f411242a16a10f35
+2025-11-02 12:27:19 INFO  Baseclass:29 - org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [33e189e223b0cc95f411242a16a10f35, findElement {value=//a[text()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.59, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\SUJITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:5972}, goog:processID: 14292, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:5972/devtool..., se:cdpVersion: 142.0.7444.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 33e189e223b0cc95f411242a16a10f35

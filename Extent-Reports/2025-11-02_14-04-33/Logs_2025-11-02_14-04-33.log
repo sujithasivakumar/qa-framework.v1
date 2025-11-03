@@ -1,0 +1,19 @@
+2025-11-02 14:04:34 INFO  Baseclass:165 - Created Logger
+2025-11-02 14:04:34 INFO  Baseclass:131 - Initiating extent-Report
+2025-11-02 14:04:34 INFO  Baseclass:147 -  Extent-Report initiated
+2025-11-02 14:04:34 INFO  Baseclass:27 - gng to start tc1
+2025-11-02 14:04:34 INFO  Baseclass:77 - initialize_browser
+2025-11-02 14:04:34 INFO  Baseclass:82 - "local"
+2025-11-02 14:04:34 INFO  Baseclass:103 - hi
+2025-11-02 14:04:37 INFO  Baseclass:46 - gng to click login
+2025-11-02 14:04:38 INFO  Baseclass:29 - org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //*[@class='btn btn-primary' and text()='Login']) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class='btn btn-primary' and text()='Login'])' is not a valid XPath expression.
+  (Session info: chrome=142.0.7444.59)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3cb01ed200fbf711bbe578b57f7f67cb, findElement {value=//*[@class='btn btn-primary' and text()='Login']), using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.59, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\SUJITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:5643}, goog:processID: 6104, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:5643/devtool..., se:cdpVersion: 142.0.7444.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3cb01ed200fbf711bbe578b57f7f67cb
+2025-11-02 14:04:53 INFO  Baseclass:187 - taking ss

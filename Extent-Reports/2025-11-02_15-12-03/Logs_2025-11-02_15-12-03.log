@@ -1,0 +1,12 @@
+2025-11-02 15:12:03 INFO  Baseclass:173 - Created Logger
+2025-11-02 15:12:03 INFO  Baseclass:139 - Initiating extent-Report
+2025-11-02 15:12:04 INFO  Baseclass:155 -  Extent-Report initiated
+2025-11-02 15:12:04 INFO  Baseclass:27 - gng to start tc1
+2025-11-02 15:12:04 INFO  Baseclass:77 - initialize_browser
+2025-11-02 15:12:04 INFO  Baseclass:82 - remote
+2025-11-02 15:12:04 INFO  Baseclass:83 - chrome
+2025-11-02 15:12:04 INFO  Baseclass:86 - : Using OpenTelemetry for tracing
+2025-11-02 15:12:04 INFO  Baseclass:87 - remote
+2025-11-02 15:12:04 INFO  Baseclass:93 - No such Browser!
+2025-11-02 15:15:04 INFO  Baseclass:106 - org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. null 
+Host info: host: 'LAPTOP-VJQARPV0', ip: '192.168.29.9'

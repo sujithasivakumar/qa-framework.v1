@@ -1,0 +1,26 @@
+2025-11-02 13:31:20 INFO  Baseclass:166 - Created Logger
+2025-11-02 13:31:20 INFO  Baseclass:132 - Initiating extent-Report
+2025-11-02 13:31:21 INFO  Baseclass:148 -  Extent-Report initiated
+2025-11-02 13:31:21 INFO  Baseclass:27 - gng to start tc1
+2025-11-02 13:31:21 INFO  Baseclass:78 - initialize_browser
+2025-11-02 13:31:21 INFO  Baseclass:83 - "local"
+2025-11-02 13:31:21 INFO  Baseclass:104 - hi
+2025-11-02 13:31:27 INFO  Baseclass:46 - gng to click login
+2025-11-02 13:31:42 INFO  Baseclass:29 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@title='My Account']"}
+  (Session info: chrome=142.0.7444.59)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2879ed3544b1f885d4a7d6dc86be90ab, findElement {using=xpath, value=//*[@title='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.59, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\SUJITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9215}, goog:processID: 19228, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:9215/devtool..., se:cdpVersion: 142.0.7444.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2879ed3544b1f885d4a7d6dc86be90ab
+2025-11-02 13:31:57 INFO  Baseclass:29 - org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=142.0.7444.59)
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2879ed3544b1f885d4a7d6dc86be90ab, clickElement {id=f.AFC7B6F4FB243760331A146C02452DCE.d.C2D13D819F3B7A763DAD432A527F0BDD.e.66}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.59, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Users\SUJITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9215}, goog:processID: 19228, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:9215/devtool..., se:cdpVersion: 142.0.7444.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2879ed3544b1f885d4a7d6dc86be90ab)] -> xpath: //a[text()='Login']]
+Session ID: 2879ed3544b1f885d4a7d6dc86be90ab

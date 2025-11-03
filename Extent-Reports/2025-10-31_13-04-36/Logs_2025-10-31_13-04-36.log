@@ -1,0 +1,7 @@
+2025-10-31 13:04:36 INFO  Baseclass:70 - HELLOOOOO from Log4j2
+2025-10-31 13:04:36 INFO  Baseclass:18 - gng to start tc1
+2025-10-31 13:04:40 INFO  Baseclass:42 - gng to click login
+2025-10-31 13:04:40 INFO  Baseclass:17 - org.openqa.selenium.support.ui.UnexpectedTagNameException: Element should have been "select" but was "a"
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: driver.version: unknown

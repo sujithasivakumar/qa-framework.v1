@@ -1,0 +1,4 @@
+com\opencart\Utils\Baseclass.class
+com\opencart\Utils\SeleniumFunctions.class
+com\opencart\PageObjectModel\LoginPage.class
+com\opencart\Utils\ExecuteTests.class

@@ -1,0 +1,5 @@
+2025-10-31 07:45:45 INFO  Baseclass:71 - HELLOOOOO from Log4j2
+2025-10-31 07:45:45 INFO  Baseclass:18 - gng to start tc1
+2025-10-31 07:45:57 INFO  Baseclass:34 - gng to click login
+2025-10-31 07:45:57 INFO  Baseclass:44 - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-10-31 07:45:57 INFO  Baseclass:18 - Hi!

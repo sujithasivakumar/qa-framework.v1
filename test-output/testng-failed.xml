@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="OS" value="Windows"/>
+  <parameter name="Browser" value="chrome"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.opencart.testclasses.AddProductToCart">
+        <methods>
+          <include name="CreateTestInReport"/>
+          <include name="add_ProductToCart"/>
+          <include name="initialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.opencart.testclasses.AddProductToCart -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
